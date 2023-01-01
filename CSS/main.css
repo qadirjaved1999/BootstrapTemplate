@@ -1,0 +1,66 @@
+.hero-section {
+  background-color: #1d1160;
+}
+
+.promo-content {
+  text-transform: capitalize;
+}
+.hero-btn-1 {
+  border-radius: 50px;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+}
+a {
+  color: white;
+}
+.card {
+  /* background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%); */
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.icon {
+  font-size: 50px;
+}
+.download {
+  background-image: linear-gradient(62deg, #2c1ef5 0%, #b084da 100%);
+}
+h1 {
+  text-transform: capitalize;
+}
+hr.style4 {
+  border-top: 5px dotted #8c8b8b;
+  color: brown;
+}
+.showcase {
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.screenshot-part {
+  background-color: #f7ccf7;
+  background-image: linear-gradient(0deg, #f7ccf7 0%, #e0f8f9 100%);
+}
+.result {
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+.subscribe {
+  background-color: #a19f9f;
+}
+.feature {
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
+}
+.pricing {
+  background-color: #f5eff5;
+  background-image: linear-gradient(0deg, #f5eff5 0%, #7b979b 100%);
+}
+.testimonials {
+  background-color: #09a3a5;
+  background-image: linear-gradient(90deg, #09a3a5 0%, #be13c0 100%);
+}
+.download-2 {
+  background-color: #394594;
+}
+.artical {
+  background-color: #fae8fa;
+}
